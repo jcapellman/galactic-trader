@@ -14,7 +14,6 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		GalacticTrader\GalacticTrader\GalacticTrader.projitems*{1e1bcd35-5364-43a8-8db6-9af491e32162}*SharedItemsImports = 13
-		GalacticTrader\GalacticTrader\GalacticTrader.projitems*{4db22be2-9aab-42af-a061-006d6cb0b31e}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +31,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|ARM.ActiveCfg = Debug|Any CPU
 		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|ARM.Build.0 = Debug|Any CPU
 		{31A2164F-E1A9-466D-AAA5-18D27A443ED7}.Debug|ARM.Deploy.0 = Debug|Any CPU
@@ -84,6 +81,8 @@ Global
 		{4DB22BE2-9AAB-42AF-A061-006D6CB0B31E}.Release|x64.ActiveCfg = Release|iPhone
 		{4DB22BE2-9AAB-42AF-A061-006D6CB0B31E}.Release|x86.ActiveCfg = Release|iPhone
 		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|Any CPU.Build.0 = Debug|x86
+		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|Any CPU.Deploy.0 = Debug|x86
 		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|ARM.ActiveCfg = Debug|ARM
 		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|ARM.Build.0 = Debug|ARM
 		{064932CF-5AF2-4E1C-ADD5-E76373FDCF3E}.Debug|ARM.Deploy.0 = Debug|ARM
