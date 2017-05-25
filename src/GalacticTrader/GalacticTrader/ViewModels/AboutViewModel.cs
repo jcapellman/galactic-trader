@@ -9,8 +9,6 @@ namespace GalacticTrader.ViewModels
 	{
 		public AboutViewModel()
 		{
-			Title = "About";
-
 			OpenWebCommand = new Command(() => Device.OpenUri(new Uri("http://www.motionblurstudiosllc.com/galactic-trader")));
 		}
         

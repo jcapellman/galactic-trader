@@ -2,10 +2,8 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="GalacticTrader.Views.MainGamePage"
-             xmlns:pages="clr-namespace:GalacticTrader.Views;assembly=GalacticTrader.Views"
              Title="TabbedPage">
-  <!--Pages can be added as references or inline-->
-  <pages:MainGamePageTab1/>
+ 
   <ContentPage Title="Tab 2">
     <StackLayout>
       <Label Text="Green"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" Margin="5" />
